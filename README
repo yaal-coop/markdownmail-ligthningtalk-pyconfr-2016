@@ -2,4 +2,6 @@ Présentation faite lors de la conférence PyConFr (Rennes, 2016)
 
 Nécessite LaTeX.
 
-- Construction du fichier expose.pdf avec `make`. 
+- Construction du fichier expose.pdf avec `make`.
+- Nettoyage avec `make clean`
+
